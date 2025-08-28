@@ -23,5 +23,5 @@ The task was to create a function that calculates the final price of an item aft
 ## ▶️ Running the Program
 1. Clone this repository:
    `bash
-   git clone https://github.com/your-username/week3-assignment.git
+   git clone https://github.com/Biko-KHM/week3-assignment.git
    cd week3-assignment
