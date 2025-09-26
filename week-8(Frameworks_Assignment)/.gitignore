@@ -1,0 +1,12 @@
+# virtual environment
+venv/
+__pycache__/
+
+# jupyter
+.ipynb_checkpoints/
+
+# dataset
+data/metadata.csv
+
+# OS stuff
+.DS_Store
